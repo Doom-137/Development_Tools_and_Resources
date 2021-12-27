@@ -32,7 +32,8 @@
     * Django
   * Image Manipulation
     * HighCompress
-
+* License
+* Contact
 
 ## Artistic
 ### 3D Software Suites
@@ -143,3 +144,8 @@
 #### HighCompress
 &emsp;Platform(s): Web Application  
 &emsp;Link(s): [Homepage](https://www.highcompress.com/ "HighCompress Homepage")  
+
+## License
+
+## Contact
+
