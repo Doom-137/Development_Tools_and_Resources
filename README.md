@@ -1,7 +1,8 @@
-## Development Tools & Resources
-###### A well organized and ever-growing list of development tools & resources.
+# Development Tools & Resources
+> A well organized and ever-growing list of development tools & resources.
 
-## Table of Contents
+
+# Table of Contents
 
 * Artistic
   * 3D Software Suites
@@ -37,36 +38,61 @@
 
 ## Artistic
 ### 3D Software Suites
-###### &emsp;Software tools for 3D modeling, animation, rendering, simulation
+> Software tools for 3D modeling, animation, rendering, simulation
 
-#### Autodesk Maya
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Download](https://www.autodesk.com/products/maya/overview "Autodesk Maya Download Page")
-    
-#### Blender
-&emsp;Platform(s): Android, Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://www.blender.org/ "Blender Homepage"), [Download](https://www.blender.org/download/ "Blender Download Page")  
-&emsp;Learning Resources: [Blender Support](https://www.blender.org/support/ "Blender Support"), [Blender Tutorials](https://www.blender.org/support/tutorials/ "Blender Tutorials"), 
-
-#### Cinema 4D
-&emsp;Platform(s):  
-&emsp;Link(s):  
+<details>
+ <summary>Autodesk Maya</summary>
+ <p>
+  Cost: 💰</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://www.autodesk.com/products/maya/overview" title="Autodesk Maya Download Page">Download</a></br>
+  Learning Resource(s): <a href="XXXX" title="XXXX">XXXX</a>
+ </p>
+</details>
+<details>
+ <summary>Blender</summary>
+ <p>Cost: 🆓</br>
+  Platform(s): Android, Linux, macOS, Windows</br>
+  Link(s): <a href="https://www.blender.org/" title="Blender Homepage">Homepage</a>, <a href="https://www.blender.org/download/" title="Blender Download Page">Download</a></br>
+  Learning Resource(s): <a href="https://www.blender.org/support/" title="Blender Support">Blender Support</a>, <a href="https://www.blender.org/support/tutorials/" title="Blender Tutorials">Blender Tutorials</a></br>
+ </p>
+</details>
+<details>
+ <summary>Cinema 4D</summary>
+ <p>
+  Cost: </br>
+  Platform(s): </br>
+  Link(s): <a href="XXXX" title="XXXX">Homepage</a>, <a href="XXXX" title="XXXX">Download</a></br>
+  Learning Resource(s): <a href="XXXX" title="XXXX">XXXX</a></br>
+ </p>
+</details> 
 
 ### Raster Graphics Editors
-###### &emsp;Description
+> Description
 
-#### GIMP (GNU Image Manipulation Program)
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://www.gimp.org/ "GIMP Homepage"), [Download](https://www.gimp.org/downloads/ "GIMP Downloads Page")  
-&emsp;Learning Resources: [GIMP Tutorials](https://www.gimp.org/tutorials/ "GIMP Tutorials")
+<details>
+ <summary>GIMP (GNU Image Manipulation Program)</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://www.gimp.org/" title="GIMP Homepage">Homepage</a>, <a href="https://www.gimp.org/downloads/" title="GIMP Downloads Page">Download</a></br>
+  Learning Resource(s): <a href="https://www.gimp.org/tutorials/" title="GIMP Tutorials">GIMP Tutorials</a></br>
+ </p>
+</details>
 
 ### Vector Graphics Editors
-###### &emsp;Description
+> Various 2d vector graphics editors
 
-#### Inkscape
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://inkscape.org/ "Inkscape Homepage"), [Download](https://inkscape.org/release/inkscape-1.1.1/ "Inkscape Downloads Page")  
-&emsp;Learning Resource(s): [Inkscape Tutorials](https://inkscape.org/learn/tutorials/ "Inkscape Tutorials"), [Learning Inkscape](https://inkscape.org/learn/ "Learning Inkscape")
+<details>
+ <summary>Inkscape</summary>
+ <p>Cost: 🆓</p>
+ <p>Platform(s): Linux, macOS, Windows</p>
+ <p>Link(s): <a href="https://inkscape.org/" title="Inkscape Homepage">Homepage</a>, <a href="https://inkscape.org/release/inkscape-1.1.1/" title="Inkscape Downloads Page">Download</a>
+ </p>
+ <p>
+  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape">Learning Inkscape</a>
+ </p>
+</details>
 
 
 ## Game Development
@@ -149,3 +175,13 @@
 
 ## Contact
 
+
+<details>
+ <summary>XXXXX</summary>
+ <p>
+  Cost: 🆓 💰
+  Platform(s): Linux, macOS, Windows
+  Link(s): <a href="XXXX" title="XXXX">Homepage</a>, <a href="XXXX" title="XXXX">Download</a>
+  Learning Resource(s): <a href="XXXX" title="XXXX">XXXX</a>
+ </p>
+</details>
