@@ -85,12 +85,11 @@
 
 <details>
  <summary>Inkscape</summary>
- <p>Cost: 🆓</p>
- <p>Platform(s): Linux, macOS, Windows</p>
- <p>Link(s): <a href="https://inkscape.org/" title="Inkscape Homepage">Homepage</a>, <a href="https://inkscape.org/release/inkscape-1.1.1/" title="Inkscape Downloads Page">Download</a>
- </p>
  <p>
-  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape">Learning Inkscape</a>
+  Cost: 🆓</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://inkscape.org/" title="Inkscape Homepage">Homepage</a>, <a href="https://inkscape.org/release/inkscape-1.1.1/" title="Inkscape Downloads Page">Download</a></br>
+  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape">Learning Inkscape</br>
  </p>
 </details>
 
