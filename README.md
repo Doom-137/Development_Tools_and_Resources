@@ -73,7 +73,7 @@
   Cost: 🆓</br>
   Platform(s): Linux, macOS, Windows</br>
   Link(s): <a href="https://inkscape.org/" title="Inkscape Homepage" target="_blank">Homepage</a>, <a href="https://inkscape.org/release/inkscape-1.1.1/" title="Inkscape Downloads Page" target="_blank">Download</a></br>
-  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials" target="_blank">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape" target="_blank">Learning Inkscape</br>
+  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials" target="_blank">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape" target="_blank">Learning Inkscape</a></br>
  </p>
 </details>
 
