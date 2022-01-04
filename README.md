@@ -1,38 +1,22 @@
-# Development Tools & Resources
-> A well organized and ever-growing list of development tools & resources.
+# Development Resources
+> An ever-growing list of development tools & resources.
 
 
 # Table of Contents
 
 * Artistic
   * 3D Software Suites
-    * Autodesk Maya
-    * Blender
-    * Cinema 4D
   * Raster Graphics Editors
-    * GIMP (GNU Image Manipulation Program)
   * Vector Graphics Editors
-    * Inkscape
+* Education
 * Game Development
   * Game Engines
-    * Construct
-    * GameMaker Studio 2
-    * GDevelop
-    * Godot
-    * Open 3D Engine
-    * Stencyl
-    * Unity
-    * Unreal Engine
-* Software Development
+* Software & Web Development
   * Development Environments
-    * Android Studio
-    * Eclipse IDE
-    * Microsoft Visual Studio
-* Web Development
   * Frameworks
-    * Django
   * Image Manipulation
-    * HighCompress
+  * Reference
+  * Testing
 * License
 * Contact
 
@@ -45,16 +29,16 @@
  <p>
   Cost: 💰</br>
   Platform(s): Linux, macOS, Windows</br>
-  Link(s): <a href="https://www.autodesk.com/products/maya/overview" title="Autodesk Maya Download Page">Download</a></br>
-  Learning Resource(s): <a href="XXXX" title="XXXX">XXXX</a>
+  Link(s): <a href="https://www.autodesk.com/products/maya/overview" title="Autodesk Maya Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a>
  </p>
 </details>
 <details>
  <summary>Blender</summary>
  <p>Cost: 🆓</br>
   Platform(s): Android, Linux, macOS, Windows</br>
-  Link(s): <a href="https://www.blender.org/" title="Blender Homepage">Homepage</a>, <a href="https://www.blender.org/download/" title="Blender Download Page">Download</a></br>
-  Learning Resource(s): <a href="https://www.blender.org/support/" title="Blender Support">Blender Support</a>, <a href="https://www.blender.org/support/tutorials/" title="Blender Tutorials">Blender Tutorials</a></br>
+  Link(s): <a href="https://www.blender.org/" title="Blender Homepage" target="_blank">Homepage</a>, <a href="https://www.blender.org/download/" title="Blender Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://www.blender.org/support/" title="Blender Support" target="_blank">Blender Support</a>, <a href="https://www.blender.org/support/tutorials/" title="Blender Tutorials" target="_blank">Blender Tutorials</a></br>
  </p>
 </details>
 <details>
@@ -62,10 +46,10 @@
  <p>
   Cost: </br>
   Platform(s): </br>
-  Link(s): <a href="XXXX" title="XXXX">Homepage</a>, <a href="XXXX" title="XXXX">Download</a></br>
-  Learning Resource(s): <a href="XXXX" title="XXXX">XXXX</a></br>
+  Link(s): <a href="XXXX" title="XXXX" target="_blank">Homepage</a>, <a href="XXXX" title="XXXX" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a></br>
  </p>
-</details> 
+</details>
 
 ### Raster Graphics Editors
 > Description
@@ -75,8 +59,8 @@
  <p>
   Cost: 🆓</br>
   Platform(s): Linux, macOS, Windows</br>
-  Link(s): <a href="https://www.gimp.org/" title="GIMP Homepage">Homepage</a>, <a href="https://www.gimp.org/downloads/" title="GIMP Downloads Page">Download</a></br>
-  Learning Resource(s): <a href="https://www.gimp.org/tutorials/" title="GIMP Tutorials">GIMP Tutorials</a></br>
+  Link(s): <a href="https://www.gimp.org/" title="GIMP Homepage" target="_blank">Homepage</a>, <a href="https://www.gimp.org/downloads/" title="GIMP Downloads Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://www.gimp.org/tutorials/" title="GIMP Tutorials" target="_blank">GIMP Tutorials</a></br>
  </p>
 </details>
 
@@ -88,73 +72,116 @@
  <p>
   Cost: 🆓</br>
   Platform(s): Linux, macOS, Windows</br>
-  Link(s): <a href="https://inkscape.org/" title="Inkscape Homepage">Homepage</a>, <a href="https://inkscape.org/release/inkscape-1.1.1/" title="Inkscape Downloads Page">Download</a></br>
-  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape">Learning Inkscape</br>
+  Link(s): <a href="https://inkscape.org/" title="Inkscape Homepage" target="_blank">Homepage</a>, <a href="https://inkscape.org/release/inkscape-1.1.1/" title="Inkscape Downloads Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://inkscape.org/learn/tutorials/" title="Inkscape Tutorials" target="_blank">Inkscape Tutorials</a>, <a href="https://inkscape.org/learn/" title="Learning Inkscape" target="_blank">Learning Inkscape</br>
  </p>
 </details>
 
+## Education
+### 
+> Description
 
 ## Game Development
 ### Game Engines
-###### &emsp;Description
+> Description
 
-#### Construct
-&emsp;Platform(s): Web Application  
-&emsp;Link(s): [Homepage](https://www.construct.net/ "Construct Homepage")   
-&emsp;Learning Resources: [Construct Documentation](https://www.construct.net/en/make-games/manuals/construct-3 "Construct 3 Documentation"), [Construct Tutorials](https://www.construct.net/en/tutorials?flang=1 "Construct Tutorials")  
-
-#### GameMaker Studio 2
-&emsp;Platform(s): macOS, Windows  
-&emsp;Link(s): [Homepage](https://www.yoyogames.com/en/gamemaker "GameMaker Studio 2 Homepage")  
-&emsp;Learning Resources: [GameMaker Tutorials](https://www.yoyogames.com/en/tutorials "Getting Started with GameMaker")
-
-#### GDevelop
-&emsp;Platform(s): Linux, macOS, Web Application, Windows  
-&emsp;Link(s): [Homepage](https://gdevelop-app.com/ "GDevelop Homepage"), [Download](https://gdevelop-app.com/download/ "GDevelop Download Page")  
-&emsp;Learning Resources:  
-
-#### Godot Engine
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://godotengine.org/ "Godot Engine Homepage"), [Download](https://godotengine.org/download "Godot Engine Download Page")  
-&emsp;Learning Resources: [Godot Docs - 3.4 branch](https://docs.godotengine.org/en/stable/ "Godot Docs"), 
-
-#### Open 3D Engine
-&emsp;Platform(s): Android, iOS, Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://o3de.org/ "Open 3D Engine Homepage"), [Download](https://o3de.org/download/ "Open 3D Engine Download Page")  
-&emsp;Learning Resources: [O3DE Documentation](https://o3de.org/docs/ "O3DE Documentation")
-
-#### Stencyl
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://www.stencyl.com/ ""), [Download](https://www.stencyl.com/download/ "")  
-&emsp;Learning Resources: [Stencylpedia](https://www.stencyl.com/help/ "Stencylpedia")
-
-#### Unity
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://unity.com/ "Unity Homepage"), [Download](https://store.unity.com/ "Unity Download Page")  
-&emsp;Learning Resources: [Unity Learning](https://unity.com/learn "Unity Learning Resources")
-
-#### Unreal Engine
-&emsp;Platform(s): macOS, Windows  
-&emsp;Link(s): [Homepage](https://www.unrealengine.com/ "Unreal Engine Homepage"), [Download](https://www.unrealengine.com/download "Unreal Engine Download Page")  
-&emsp;Learning Resources: 
-
+<details>
+ <summary>Construct</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Web Application</br>
+  Link(s): <a href="https://www.construct.net/" title="Construct Homepage" target="_blank">Homepage</a></br>
+  Learning Resource(s): <a href="https://www.construct.net/en/make-games/manuals/construct-3" title="Construct Documentation" target="_blank">Construct 3 Documentation</a>, 
+  <a href="https://www.construct.net/en/tutorials?flang=1" title="Construct Tutorials" target="_blank">Construct Tutorials</a></br>
+ </p>
+</details>
+<details>
+ <summary>GameMaker Studio 2</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): macOS, Windows</br>
+  Link(s): <a href="https://www.yoyogames.com/en/gamemaker" title="GameMaker Studio 2 Homepage" target="_blank">Homepage</a>, <a href="XXXX" title="XXXX" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://www.yoyogames.com/en/tutorials" title="Getting Started with GameMaker" target="_blank">GameMaker Tutorials</a></br>
+ </p>
+</details> 
+<details>
+ <summary>GDevelop</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Linux, macOS, Web Application, Windows</br>
+  Link(s): <a href="https://gdevelop-app.com/" title="GDevelop Homepage" target="_blank">Homepage</a>, <a href="https://gdevelop-app.com/download/" title="GDevelop Download Page" target="_blank">Download</a></br>
+  Learning Resource(s):</br>
+ </p>
+</details>
+<details>
+ <summary>Godot Engine</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://godotengine.org/" title="Godot Engine Homepage" target="_blank">Homepage</a>, <a href="https://godotengine.org/download" title="Godot Engine Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://docs.godotengine.org/en/stable/" title="Godot Docs" target="_blank">Godot Docs - 3.4 branch</a></br>
+ </p>
+</details>
+<details>
+ <summary>Open 3D Engine</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Android, iOS, Linux, macOS, Windows</br>
+  Link(s): <a href="https://o3de.org/" title="Open 3D Engine Homepage" target="_blank">Homepage</a>, <a href="https://o3de.org/download/" title="Open 3D Engine Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://o3de.org/docs/" title="O3DE Documentation" target="_blank">O3DE Documentation</a></br>
+ </p>
+</details>
+<details>
+ <summary>Stencyl</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://www.stencyl.com/" title="XXXX" target="_blank">Homepage</a>, <a href="https://www.stencyl.com/download/" title="XXXX" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://www.stencyl.com/help/" title="Stencylpedia" target="_blank">Stencylpedia</a></br>
+ </p>
+</details>
+<details>
+ <summary>Unity</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://unity.com/" title="Unity Homepage" target="_blank">Homepage</a>, <a href="https://store.unity.com/" title="Unity Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="https://unity.com/learn" title="Unity Learning Resources" target="_blank">Unity Learning</a></br>
+ </p>
+</details>
+<details>
+ <summary>Unreal Engine</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): macOS, Windows</br>
+  Link(s): <a href="https://www.unrealengine.com/" title="Unreal Engine Homepage" target="_blank">Homepage</a>, <a href="https://www.unrealengine.com/download" title="Unreal Engine Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a></br>
+ </p>
+</details>
 
 ## Software Development
 ### Development Environments
-###### &emsp;Description
+> Description
 
-#### Microsoft Visual Studio
-&emsp;Platform(s): macOS, Windows  
-&emsp;Link(s): [Homepage](https://visualstudio.microsoft.com/ "Visual Studio Homepage"), [Download](https://visualstudio.microsoft.com/downloads/ "Download Visual Studio")  
-&emsp;Learning Resources: 
+<details>
+ <summary>Microsoft Visual Studio</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): macOS, Windows</br>
+  Link(s): <a href="https://visualstudio.microsoft.com/" title="Visual Studio Homepage" target="_blank">Homepage</a>, <a href="https://visualstudio.microsoft.com/downloads/" title="Download Visual Studio" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="" title="XXXX" target="_blank">XXXX</a></br>
+ </p>
+</details>
+<details>
+ <summary>Microsoft Visual Studio Code</summary>
+ <p>
+  Cost: 🆓 💰</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://visualstudio.microsoft.com/" title="Visual Studio Code Homepage" target="_blank">Homepage</a>, <a href="https://visualstudio.microsoft.com/downloads/" title="Download Visual Studio Code" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="" title="XXXX" target="_blank">XXXX</a></br>
+ </p>
+</details>
 
-#### Microsoft Visual Studio Code
-&emsp;Platform(s): Linux, macOS, Windows  
-&emsp;Link(s): [Homepage](https://visualstudio.microsoft.com/ "Visual Studio Code Homepage"), [Download](https://visualstudio.microsoft.com/downloads/ "Download Visual Studio Code")  
-&emsp;Learning Resources: 
-
-
-## Web Development
 ### Frameworks
 ###### &emsp;Description
 
@@ -178,9 +205,9 @@
 <details>
  <summary>XXXXX</summary>
  <p>
-  Cost: 🆓 💰
-  Platform(s): Linux, macOS, Windows
-  Link(s): <a href="XXXX" title="XXXX">Homepage</a>, <a href="XXXX" title="XXXX">Download</a>
-  Learning Resource(s): <a href="XXXX" title="XXXX">XXXX</a>
+  Cost: 🆓 💰</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="XXXX" title="XXXX" target="_blank">Homepage</a>, <a href="XXXX" title="XXXX" target="_blank">Download</a></br>
+  Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a></br>
  </p>
 </details>
