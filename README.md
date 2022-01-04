@@ -30,7 +30,7 @@
   Cost: 💰</br>
   Platform(s): Linux, macOS, Windows</br>
   Link(s): <a href="https://www.autodesk.com/products/maya/overview" title="Autodesk Maya Download Page" target="_blank">Download</a></br>
-  Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a>
+  Learning Resource(s): </br>
  </p>
 </details>
 <details>
@@ -110,7 +110,7 @@
   Cost: 🆓 💰</br>
   Platform(s): Linux, macOS, Web Application, Windows</br>
   Link(s): <a href="https://gdevelop-app.com/" title="GDevelop Homepage" target="_blank">Homepage</a>, <a href="https://gdevelop-app.com/download/" title="GDevelop Download Page" target="_blank">Download</a></br>
-  Learning Resource(s):</br>
+  Learning Resource(s): </br>
  </p>
 </details>
 <details>
@@ -155,7 +155,7 @@
   Cost: 🆓</br>
   Platform(s): macOS, Windows</br>
   Link(s): <a href="https://www.unrealengine.com/" title="Unreal Engine Homepage" target="_blank">Homepage</a>, <a href="https://www.unrealengine.com/download" title="Unreal Engine Download Page" target="_blank">Download</a></br>
-  Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a></br>
+  Learning Resource(s): </br>
  </p>
 </details>
 
@@ -169,33 +169,43 @@
   Cost: 🆓</br>
   Platform(s): macOS, Windows</br>
   Link(s): <a href="https://visualstudio.microsoft.com/" title="Visual Studio Homepage" target="_blank">Homepage</a>, <a href="https://visualstudio.microsoft.com/downloads/" title="Download Visual Studio" target="_blank">Download</a></br>
-  Learning Resource(s): <a href="" title="XXXX" target="_blank">XXXX</a></br>
+  Learning Resource(s): </br>
  </p>
 </details>
 <details>
  <summary>Microsoft Visual Studio Code</summary>
  <p>
-  Cost: 🆓 💰</br>
+  Cost: 🆓</br>
   Platform(s): Linux, macOS, Windows</br>
   Link(s): <a href="https://visualstudio.microsoft.com/" title="Visual Studio Code Homepage" target="_blank">Homepage</a>, <a href="https://visualstudio.microsoft.com/downloads/" title="Download Visual Studio Code" target="_blank">Download</a></br>
-  Learning Resource(s): <a href="" title="XXXX" target="_blank">XXXX</a></br>
+  Learning Resource(s): </br>
  </p>
 </details>
 
 ### Frameworks
-###### &emsp;Description
+> Description
 
-#### Django
-&emsp;Platform(s):  
-&emsp;Link(s): [Homepage](https://www.djangoproject.com/ "Django Project Homepage"), [Download](https://www.djangoproject.com/download/ "Django Download Page")  
-&emsp;Learning Resources:  
+<details>
+ <summary>Django</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): Linux, macOS, Windows</br>
+  Link(s): <a href="https://www.djangoproject.com/" title="Django Project Homepage" target="_blank">Homepage</a>, <a href="https://www.djangoproject.com/download/" title="Django Download Page" target="_blank">Download</a></br>
+  Learning Resource(s): </br>
+ </p>
+</details>
 
 ### Image Manipulation
-###### &emsp;Description
+> Description
 
-#### HighCompress
-&emsp;Platform(s): Web Application  
-&emsp;Link(s): [Homepage](https://www.highcompress.com/ "HighCompress Homepage")  
+<details>
+ <summary>HighCompress</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): Web Application</br>
+  Link(s): <a href="https://www.highcompress.com/" title="HighCompress Homepage" target="_blank">Homepage</a>
+ </p>
+</details>
 
 ## License
 
