@@ -88,9 +88,10 @@
  <p>
   <a href="https://docs.oracle.com/javase/tutorial/essential/regex/" title="">Java Tutorials: Regular Expressions</a></br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions" title="">MDN Web Docs: Regular Expressions (JavaScript)</a></br>
-  <a href="https://docs.python.org/3/library/re.html" title="">Python Docs: Regular Expressions</a></br>
+	<a href="https://docs.python.org/3/library/re.html" title="">Python Docs: Regular Expressions</a></br>
   <a href="https://www.regular-expressions.info/" title="">Regular-Expressions.info</a></br>
   <a href="http://www.rexegg.com/" title="">Rex Egg</a></br>
+  <a href="https://www.w3schools.com/jsref/jsref_obj_regexp.asp" title="">W3 Schools: JavaScript RegExp Reference</a></br>
  </p>
  <p><i>Testing</i></p>
  <p>
