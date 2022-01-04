@@ -77,9 +77,29 @@
  </p>
 </details>
 
-## Education
+## Education, Reference & Testing
 ### 
 > Description
+
+<details>
+ <summary>Regular Expressions (Regex)</summary>
+ </br>
+ <p><i>Reference & Tutorials</i></p>
+ <p>
+  <a href="https://docs.oracle.com/javase/tutorial/essential/regex/" title="">Java Tutorials: Regular Expressions</a></br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions" title="">MDN Web Docs: Regular Expressions (JavaScript)</a></br>
+  <a href="https://docs.python.org/3/library/re.html" title="">Python Docs: Regular Expressions</a></br>
+  <a href="https://www.regular-expressions.info/" title="">Regular-Expressions.info</a></br>
+  <a href="http://www.rexegg.com/" title="">Rex Egg</a></br>
+ </p>
+ <p><i>Testing</i></p>
+ <p>
+  <a href="https://regex101.com/" title="">Regex 101</a></br>
+  <a href="https://www.regexpal.com/" title="">RegEx Pal: Regex Tester</a></br>
+  <a href="https://regexr.com/" title="">RegExr</a></br>
+  <a href="https://rubular.com/" title="">Rubular: Ruby Regex Editor</a></br>
+ </p>
+</details>
 
 ## Game Development
 ### Game Engines
@@ -203,7 +223,7 @@
  <p>
   Cost: 🆓</br>
   Platform(s): Web Application</br>
-  Link(s): <a href="https://www.highcompress.com/" title="HighCompress Homepage" target="_blank">Homepage</a>
+  Link(s): <a href="https://www.highcompress.com/" title="HighCompress Homepage" target="_blank">Homepage</a></br>
  </p>
 </details>
 
@@ -213,7 +233,7 @@
 
 
 <details>
- <summary>XXXXX</summary>
+ <summary>Template</summary>
  <p>
   Cost: 🆓 💰</br>
   Platform(s): Linux, macOS, Windows</br>
@@ -221,3 +241,5 @@
   Learning Resource(s): <a href="XXXX" title="XXXX" target="_blank">XXXX</a></br>
  </p>
 </details>
+
+<a href="XXXXXXXXXXXXXXX" title=""></a></br>
