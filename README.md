@@ -1,7 +1,6 @@
 # Development Resources
 > An ever-growing list of development tools & resources.
 
-
 # Table of Contents
 
 * Artistic
@@ -267,3 +266,9 @@
 </details>
 
 <a href="XXXXXXXXXXXXXXX" title=""></a></br>
+
+APIs
+Datamuse: https://www.datamuse.com/api/
+
+News
+Hacker News: https://news.ycombinator.com/
