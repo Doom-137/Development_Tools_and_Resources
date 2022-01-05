@@ -88,10 +88,6 @@
 	<p>
 		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
 		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
-		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
-		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
-		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
-		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
 	</p>
 </details>
 
@@ -217,21 +213,29 @@
  </p>
 </details>
 
-### Frameworks
+### Frameworks & Libraries
 > Description
 
 <details>
- <summary>JavaScript</summary>
+ <summary>JavaScript Frameworks</summary>
  </br>
  <p>
 		<a href="https://vuejs.org/v2/guide/" title="Introduction">Vue.js</a></br>
  </p>
 </details>
 <details>
- <summary>Python</summary>
+ <summary>Python Frameworks</summary>
  </br>
  <p>
 		<a href="https://www.djangoproject.com/" title="Homepage">Django</a></br>
+ </p>
+</details>
+
+<details>
+ <summary>HTML, CSS, JavaScript Libraries</summary>
+ </br>
+ <p>
+		<a href="https://getbootstrap.com/" title="Homepage">Bootstrap</a></br>
  </p>
 </details>
 
