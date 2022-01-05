@@ -82,6 +82,20 @@
 > Description
 
 <details>
+	<summary>Language Documentation</summary>
+	</br>
+	<p><i></i></p>
+	<p>
+		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
+		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
+		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
+		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
+		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
+		<a href="XXXXXXXXXXXXXXX" title=""></a></br>
+	</p>
+</details>
+
+<details>
  <summary>Regular Expressions (Regex)</summary>
  </br>
  <p><i>Reference & Tutorials</i></p>
