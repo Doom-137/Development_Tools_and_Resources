@@ -221,12 +221,17 @@
 > Description
 
 <details>
- <summary>Django</summary>
+ <summary>JavaScript</summary>
+ </br>
  <p>
-  Cost: 🆓</br>
-  Platform(s): Linux, macOS, Windows</br>
-  Link(s): <a href="https://www.djangoproject.com/" title="Django Project Homepage" target="_blank">Homepage</a>, <a href="https://www.djangoproject.com/download/" title="Django Download Page" target="_blank">Download</a></br>
-  Learning Resource(s): </br>
+		<a href="https://vuejs.org/v2/guide/" title="Introduction">Vue.js</a></br>
+ </p>
+</details>
+<details>
+ <summary>Python</summary>
+ </br>
+ <p>
+		<a href="https://www.djangoproject.com/" title="Homepage">Django</a></br>
  </p>
 </details>
 
