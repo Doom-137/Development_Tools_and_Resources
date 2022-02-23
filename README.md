@@ -11,11 +11,13 @@
 * Game Development
   * Game Engines
 * Software & Web Development
+  * CSS Tools
   * Development Environments
-  * Frameworks
+  * Frameworks & Libraries
   * Image Manipulation
   * Reference
   * Testing
+  * Text Tools
 * License
 * Contact
 
@@ -259,6 +261,33 @@
  </p>
 </details>
 
+### Reference
+> Description
+
+### Testing
+> Description
+
+### Text Tools
+> Description
+
+<details>
+ <summary>Lorem Ipsum</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): Web Application</br>
+  Link(s): <a href="https://loremipsum.io/" title="Lorem Ipsum Homepage" target="_blank">Homepage</a></br>
+ </p>
+</details>
+
+<details>
+ <summary>Word Counter</summary>
+ <p>
+  Cost: 🆓</br>
+  Platform(s): Web Application</br>
+  Link(s): <a href="https://wordcounter.net/" title="Word Counter Homepage" target="_blank">Homepage</a></br>
+ </p>
+</details>
+
 ## License
 
 ## Contact
@@ -278,6 +307,7 @@
 
 APIs
 Datamuse: https://www.datamuse.com/api/
+ComicVine: https://comicvine.gamespot.com/api/documentation#toc-0-11
 
 News
 Hacker News: https://news.ycombinator.com/
